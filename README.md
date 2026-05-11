@@ -1,5 +1,6 @@
 # 📊 IT Training Institute - Placement Analytics Dashboard
-<img width="1168" height="661" alt="image" src="https://github.com/user-attachments/assets/853b78a2-9f53-406d-b61e-61edd822b4ae" />
+<img width="1166" height="652" alt="image" src="https://github.com/user-attachments/assets/4a8cf767-9ac7-4930-9cdf-24b2a733c0cf" />
+
 
 ## 🚀 Project Overview
 
